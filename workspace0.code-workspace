@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "E:\\0-----Machine Learning-----0\\Video\\Udemy_Data Science\\Udemy - Python for Data Science and Machine Learning Bootcamp 2020-5\\1. Course Introduction\\Refactored_Py_DS_ML_Bootcamp-master"
+		},
+		{
+			"path": "..\\..\\GIT_Test"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"git.ignoreLimitWarning": true,
+		"python.pythonPath": "C:\\Users\\JHamed\\miniconda3\\envs\\fastai_env\\python.exe"
+	}
+}
